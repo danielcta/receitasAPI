@@ -1,0 +1,277 @@
+{
+  "receitas": [
+    {
+      "nome": "Salada de Quinoa com Abacate",
+      "imagem": "salada_quinoa_abacate.jpg",
+      "ingredientes": [
+        "1 xícara de quinoa",
+        "2 xícaras de água",
+        "1 abacate maduro, cortado em cubos",
+        "1/2 xícara de tomate cereja cortado ao meio",
+        "1/4 de xícara de cebola roxa picada",
+        "Suco de 1 limão",
+        "2 colheres de sopa de azeite de oliva",
+        "Sal e pimenta a gosto",
+        "Coentro fresco picado para decorar"
+      ],
+      "substituicoes": [
+        "Quinoa pode ser substituída por arroz integral.",
+        "Cebola roxa pode ser substituída por cebola comum."
+      ],
+      "modo_preparo": [
+        "Enxágue a quinoa em água corrente.",
+        "Leve a quinoa e a água para ferver, reduza o fogo, tampe e cozinhe por 15 minutos.",
+        "Em uma tigela grande, misture a quinoa cozida com o abacate, o tomate, a cebola, o suco de limão e o azeite.",
+        "Tempere com sal e pimenta a gosto, decore com coentro e sirva."
+      ],
+      "tempo_preparo": "25 minutos",
+      "rendimento": "4 porções",
+      "tipo_receita": ["fitness", "vegano", "sem gluten"],
+      "utensilios": ["panela", "tigela", "colher de salada"]
+    },
+    {
+      "nome": "Brownie de Chocolate",
+      "imagem": "brownie_chocolate.jpg",
+      "ingredientes": [
+        "1 xícara de farinha de amêndoas",
+        "1/2 xícara de cacau em pó",
+        "1/2 xícara de açúcar de coco",
+        "1/4 de xícara de óleo de coco derretido",
+        "2 ovos",
+        "1 colher de chá de extrato de baunilha",
+        "1/2 colher de chá de fermento em pó",
+        "Uma pitada de sal",
+        "Nozes picadas (opcional)",
+        "Chocolate amargo picado (opcional)"
+      ],
+      "substituicoes": [
+        "Farinha de amêndoas pode ser substituída por farinha de aveia para uma versão com menos gordura.",
+        "Açúcar de coco pode ser substituído por açúcar mascavo."
+      ],
+      "modo_preparo": [
+        "Pré-aqueça o forno a 180°C e unte uma forma quadrada.",
+        "Em uma tigela, misture a farinha de amêndoas, o cacau em pó, o açúcar de coco, o fermento em pó e o sal.",
+        "Em outra tigela, bata os ovos, adicione o óleo de coco derretido e a baunilha.",
+        "Combine os ingredientes secos com os úmidos e misture bem.",
+        "Se desejar, adicione nozes picadas e chocolate amargo picado à massa.",
+        "Despeje a massa na forma e asse por 20-25 minutos.",
+        "Deixe esfriar antes de cortar em quadrados."
+      ],
+      "tempo_preparo": "35 minutos",
+      "rendimento": "12 porções",
+      "tipo_receita": ["doces", "vegano", "baixo acucar"],
+      "utensilios": ["forma quadrada", "tigelas", "batedeira (opcional)"]
+    }
+    {
+        "nome": "Pasta Alfredo com Frango",
+        "imagem": "pasta_alfredo.jpg",
+        "ingredientes": [
+          "300g de macarrão fettuccine",
+          "2 peitos de frango, cortados em pedaços",
+          "3 colheres de sopa de manteiga",
+          "2 xícaras de creme de leite",
+          "1 xícara de queijo parmesão ralado",
+          "Sal e pimenta a gosto",
+          "Salsinha fresca picada para decorar"
+        ],
+        "substituicoes": ["Queijo parmesão pode ser substituído por queijo vegano."],
+        "modo_preparo": [
+          "Cozinhe o fettuccine de acordo com as instruções da embalagem, escorra e reserve.",
+          "Tempere os pedaços de frango com sal e pimenta.",
+          "Em uma frigideira grande, derreta a manteiga e grelhe o frango até que esteja cozido e dourado.",
+          "Adicione o creme de leite e o queijo parmesão à frigideira, mexendo até que o queijo derreta e o molho fique cremoso.",
+          "Misture a massa cozida no molho, decore com salsinha e sirva."
+        ],
+        "tempo_preparo": "30 minutos",
+        "rendimento": "4 porções",
+        "tipo_receita": [],
+        "utensilios": ["frigideira", "panela para cozinhar a massa"]
+      },
+      {
+        "nome": "Smoothie de Morango e Banana",
+        "imagem": "smoothie_morango_banana.jpg",
+        "ingredientes": [
+          "1 xícara de morangos congelados",
+          "1 banana madura",
+          "1/2 xícara de iogurte grego",
+          "1/2 xícara de leite",
+          "1 colher de sopa de mel (opcional)"
+        ],
+        "substituicoes": ["Iogurte grego pode ser substituído por iogurte vegano."],
+        "modo_preparo": [
+          "Coloque todos os ingredientes no liquidificador.",
+          "Bata até obter uma mistura homogênea e cremosa.",
+          "Adoce com mel, se desejar, e sirva imediatamente."
+        ],
+        "tempo_preparo": "5 minutos",
+        "rendimento": "2 porções",
+        "tipo_receita": ["fitness", "vegano"],
+        "utensilios": ["liquidificador"]
+      }
+      {
+        "nome": "Salmão Grelhado com Molho de Limão",
+        "imagem": "salmão_grelhado.jpg",
+        "ingredientes": [
+          "4 filés de salmão",
+          "Suco de 2 limões",
+          "2 colheres de sopa de azeite de oliva",
+          "2 dentes de alho picados",
+          "Sal e pimenta a gosto",
+          "Salsa picada para decorar"
+        ],
+        "substituicoes": [],
+        "modo_preparo": [
+          "Tempere os filés de salmão com suco de limão, azeite, alho, sal e pimenta.",
+          "Grelhe o salmão em fogo médio-alto por 4-5 minutos de cada lado, até que esteja cozido.",
+          "Sirva com salsa picada por cima."
+        ],
+        "tempo_preparo": "20 minutos",
+        "rendimento": "4 porções",
+        "tipo_receita": ["fitness"],
+        "utensilios": ["churrasqueira ou grelha", "pincel de cozinha"]
+      },
+      {
+        "nome": "Risoto de Cogumelos",
+        "imagem": "risoto_cogumelos.jpg",
+        "ingredientes": [
+          "2 xícaras de arroz arbóreo",
+          "200g de cogumelos mistos (shiitake, shimeji, champignon)",
+          "1 cebola picada",
+          "2 dentes de alho picados",
+          "1/2 xícara de vinho branco",
+          "1 litro de caldo de vegetais",
+          "1/2 xícara de queijo parmesão ralado",
+          "Sal e pimenta a gosto",
+          "2 colheres de sopa de manteiga"
+        ],
+        "substituicoes": ["Queijo parmesão pode ser substituído por queijo vegano."],
+        "modo_preparo": [
+          "Em uma panela, aqueça o caldo de vegetais e mantenha-o aquecido em fogo baixo.",
+          "Em outra panela, derreta a manteiga e refogue a cebola e o alho até ficarem macios.",
+          "Adicione os cogumelos e cozinhe por alguns minutos.",
+          "Acrescente o arroz e o vinho branco, mexendo até que o vinho seja absorvido.",
+          "Adicione o caldo de vegetais aos poucos, mexendo constantemente até que o arroz esteja cozido e o risoto esteja cremoso.",
+          "Misture o queijo parmesão, tempere com sal e pimenta, e sirva quente."
+        ],
+        "tempo_preparo": "40 minutos",
+        "rendimento": "4 porções",
+        "tipo_receita": [],
+        "utensilios": ["panela", "colher de pau"]
+      },
+      {
+        "nome": "Salada de Quinoa com Vegetais",
+        "imagem": "salada_quinoa.jpg",
+        "ingredientes": [
+          "1 xícara de quinoa",
+          "2 xícaras de água",
+          "1 pepino picado",
+          "1 pimentão vermelho picado",
+          "1 xícara de tomate cereja cortado ao meio",
+          "1/2 xícara de cebola roxa picada",
+          "Suco de 2 limões",
+          "3 colheres de sopa de azeite de oliva",
+          "Sal e pimenta a gosto",
+          "Salsinha fresca picada"
+        ],
+        "substituicoes": [],
+        "modo_preparo": [
+          "Enxágue a quinoa em água corrente.",
+          "Leve a quinoa e a água para ferver, reduza o fogo, tampe e cozinhe por 15 minutos.",
+          "Em uma tigela grande, misture a quinoa cozida com os vegetais, o suco de limão e o azeite.",
+          "Tempere com sal e pimenta a gosto e decore com salsinha."
+        ],
+        "tempo_preparo": "25 minutos",
+        "rendimento": "4 porções",
+        "tipo_receita": ["fitness", "vegano"],
+        "utensilios": ["panela", "tigela", "colher de salada"]
+      },
+      {
+        "nome": "Sopa de Abóbora",
+        "imagem": "sopa_abobora.jpg",
+        "ingredientes": [
+          "1 abóbora pequena",
+          "2 cenouras",
+          "1 cebola",
+          "2 dentes de alho",
+          "1 litro de caldo de vegetais",
+          "Sal e pimenta a gosto",
+          "Creme de leite (opcional)"
+        ],
+        "substituicoes": ["Creme de leite pode ser substituído por creme de coco para versão vegana."],
+        "modo_preparo": [
+          "Descasque e pique a abóbora, as cenouras, a cebola e o alho.",
+          "Em uma panela grande, refogue a cebola e o alho até ficarem macios.",
+          "Adicione a abóbora, as cenouras e o caldo de vegetais à panela.",
+          "Cozinhe até que os vegetais estejam macios, cerca de 20 minutos.",
+          "Bata a sopa no liquidificador até ficar cremosa.",
+          "Tempere com sal e pimenta a gosto e sirva com uma colher de creme de leite, se desejar."
+        ],
+        "tempo_preparo": "40 minutos",
+        "rendimento": "6 porções",
+        "tipo_receita": ["fitness", "vegano"],
+        "utensilios": ["panela", "liquidificador"]
+      },
+      {
+        "nome": "Bolo de Chocolate",
+        "imagem": "bolo_chocolate.jpg",
+        "ingredientes": [
+          "2 xícaras de farinha de trigo",
+          "1 xícara de açúcar",
+          "1/2 xícara de cacau em pó",
+          "2 colheres de chá de fermento em pó",
+          "1 colher de chá de bicarbonato de sódio",
+          "1/2 colher de chá de sal",
+          "2 ovos",
+          "1 xícara de leite",
+          "1/2 xícara de óleo vegetal",
+          "2 colheres de chá de extrato de baunilha"
+        ],
+        "substituicoes": [
+          "Farinha de trigo pode ser substituída por farinha de amêndoas para receita sem glúten.",
+          "Leite pode ser substituído por leite de amêndoas para receita vegana."
+        ],
+        "modo_preparo": [
+          "Preaqueça o forno a 180°C e unte uma forma de bolo.",
+          "Em uma tigela, misture a farinha, o cacau, o açúcar, o fermento, o bicarbonato e o sal.",
+          "Em outra tigela, bata os ovos, adicione o leite, o óleo e a baunilha.",
+          "Combine os ingredientes secos e úmidos, mexendo até obter uma massa homogênea.",
+          "Despeje a massa na forma e asse por 30-35 minutos.",
+          "Deixe esfriar antes de servir."
+        ],
+        "tempo_preparo": "45 minutos",
+        "rendimento": "12 porções",
+        "tipo_receita": ["doces"],
+        "utensilios": ["forma de bolo", "tigelas", "batedeira (opcional)"]
+      },
+      {
+        "nome": "Bolo de Chocolate Vegano",
+        "imagem": "bolo_chocolate.jpg",
+        "ingredientes": [
+          "2 xícaras de farinha de trigo",
+          "1 xícara de açúcar mascavo",
+          "1/2 xícara de cacau em pó",
+          "1 colher de chá de bicarbonato de sódio",
+          "1 colher de chá de fermento em pó",
+          "1/2 xícara de óleo vegetal",
+          "1 xícara de leite de amêndoas",
+          "1 colher de chá de extrato de baunilha",
+          "100g de chocolate amargo vegano (derretido)"
+        ],
+        "substituicoes": [
+          "Açúcar mascavo pode ser substituído por açúcar de coco",
+          "Óleo vegetal pode ser substituído por purê de maçã",
+          "Chocolate amargo vegano pode ser substituído por chocolate meio amargo vegano"
+        ],
+        "modo_preparo": "Pré-aqueça o forno a 180°C. Em uma tigela, misture a farinha, o açúcar, o cacau em pó, o bicarbonato de sódio e o fermento em pó. Em outra tigela, misture o óleo vegetal, o leite de amêndoas, a baunilha e o chocolate derretido. Combine as misturas secas e líquidas e mexa até ficar homogêneo. Despeje a massa em uma forma untada e asse por 30-35 minutos. Deixe esfriar antes de servir.",
+        "tempo_preparo": "45 minutos",
+        "rendimento": "12 fatias",
+        "tipo_receita": "Vegano",
+        "utensilios": [
+          "Forma de bolo",
+          "Tigelas",
+          "Fouet",
+          "Espátula"
+        ]
+      },
+  ]
+}
