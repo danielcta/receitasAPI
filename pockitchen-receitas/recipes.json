@@ -273,5 +273,343 @@
           "Espátula"
         ]
       },
+    {
+      "nome": "Salada de Quinoa",
+      "imagem": "salada_quinoa.jpg",
+      "ingredientes": [
+        "1 xícara de quinoa cozida",
+        "1 xícara de pepino em cubos",
+        "1 xícara de tomate cereja cortado ao meio",
+        "1/2 xícara de folhas de espinafre",
+        "1/4 de xícara de azeitonas pretas fatiadas",
+        "1/4 de xícara de cebola roxa picada",
+        "2 colheres de sopa de azeite de oliva",
+        "Suco de 1 limão",
+        "Sal e pimenta a gosto"
+      ],
+      "substituicoes": [],
+      "modo_preparo": "Misture todos os ingredientes em uma tigela grande. Tempere com azeite, suco de limão, sal e pimenta. Sirva frio.",
+      "tempo_preparo": "20 minutos",
+      "rendimento": "4 porções",
+      "tipo_receita": ["fitness", "vegano"],
+      "utensilios": ["tigela grande"]
+    },
+    {
+      "nome": "Bolo de Cenoura",
+      "imagem": "bolo_cenoura.jpg",
+      "ingredientes": [
+        "3 cenouras grandes",
+        "3 ovos",
+        "1 xícara de óleo vegetal",
+        "2 xícaras de açúcar",
+        "2 xícaras de farinha de trigo",
+        "1 colher de sopa de fermento em pó"
+      ],
+      "substituicoes": ["açúcar por adoçante", "óleo vegetal por óleo de coco"],
+      "modo_preparo": "No liquidificador, bata as cenouras, os ovos e o óleo. Em uma tigela, misture o açúcar, a farinha de trigo e o fermento. Adicione a mistura do liquidificador à tigela e mexa bem. Despeje a massa em uma forma untada e leve ao forno preaquecido a 180°C por 40 minutos.",
+      "tempo_preparo": "60 minutos",
+      "rendimento": "12 porções",
+      "tipo_receita": ["sem açúcar"],
+      "utensilios": ["liquidificador", "forma de bolo"]
+    },
+    {
+      "nome": "Risoto de Cogumelos",
+      "imagem": "risoto_cogumelos.jpg",
+      "ingredientes": [
+        "2 xícaras de arroz arbóreo",
+        "200g de cogumelos variados (shiitake, shimeji, champignon)",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "4 xícaras de caldo de legumes quente",
+        "1/2 xícara de vinho branco seco",
+        "3 colheres de sopa de azeite de oliva",
+        "1/2 xícara de queijo parmesão ralado",
+        "Sal e pimenta a gosto"
+      ],
+      "substituicoes": ["queijo parmesão por queijo vegano"],
+      "modo_preparo": "Em uma panela, refogue a cebola e o alho no azeite até ficarem dourados. Adicione os cogumelos e refogue por mais alguns minutos. Acrescente o arroz e o vinho branco e mexa até que o vinho seja absorvido. Adicione o caldo de legumes aos poucos, mexendo sempre, até que o arroz esteja cozido. Misture o queijo parmesão (ou vegano), tempere com sal e pimenta, e sirva.",
+      "tempo_preparo": "30 minutos",
+      "rendimento": "4 porções",
+      "tipo_receita": ["sem glúten", "vegano"],
+      "utensilios": ["panela grande"]
+    },
+    {
+      "nome": "Smoothie de Frutas",
+      "imagem": "smoothie_frutas.jpg",
+      "ingredientes": [
+        "1 banana madura",
+        "1 xícara de morangos congelados",
+        "1/2 xícara de iogurte de soja",
+        "1/2 xícara de leite de amêndoas",
+        "1 colher de sopa de mel (opcional)"
+      ],
+      "substituicoes": ["mel por xarope de bordo"],
+      "modo_preparo": "Coloque todos os ingredientes no liquidificador e bata até obter uma mistura homogênea. Adoce a gosto com mel (ou xarope de bordo) e sirva.",
+      "tempo_preparo": "10 minutos",
+      "rendimento": "2 porções",
+      "tipo_receita": ["sem lactose", "vegano"],
+      "utensilios": ["liquidificador"]
+    },
+  {
+      "nome": "Salmão Grelhado",
+      "imagem": "salmao_grelhado.jpg",
+      "ingredientes": [
+        "4 filés de salmão",
+        "Suco de 1 limão",
+        "2 colheres de sopa de azeite de oliva",
+        "1 dente de alho picado",
+        "Sal e pimenta a gosto",
+        "Raspas de limão para decorar"
+      ],
+      "substituicoes": [],
+      "modo_preparo": "Tempere os filés de salmão com o suco de limão, azeite de oliva, alho picado, sal e pimenta. Deixe marinar por 30 minutos. Grelhe o salmão em uma grelha quente por 4-5 minutos de cada lado, até que esteja cozido. Decore com raspas de limão e sirva.",
+      "tempo_preparo": "40 minutos",
+      "rendimento": "4 porções",
+      "tipo_receita": ["fitness"],
+      "utensilios": ["grelha"]
+    },
+    {
+      "nome": "Torta de Maçã",
+      "imagem": "torta_maca.jpg",
+      "ingredientes": [
+        "6 maçãs descascadas e fatiadas",
+        "1 xícara de açúcar",
+        "1 colher de chá de canela em pó",
+        "1/2 colher de chá de noz-moscada",
+        "Massa para torta (pronta ou caseira)",
+        "2 colheres de sopa de manteiga",
+        "2 colheres de sopa de farinha de trigo"
+      ],
+      "substituicoes": ["açúcar por adoçante", "manteiga por margarina vegetal"],
+      "modo_preparo": "Em uma tigela grande, misture as maçãs fatiadas, açúcar, canela e noz-moscada. Abra a massa para torta e forre uma forma. Coloque a mistura de maçã na massa. Em uma tigela, misture a manteiga e a farinha até obter uma farofa. Espalhe a farofa sobre as maçãs. Asse no forno preaquecido a 180°C por 40-45 minutos, até que a massa esteja dourada.",
+      "tempo_preparo": "60 minutos",
+      "rendimento": "8 porções",
+      "tipo_receita": ["sem açúcar"],
+      "utensilios": ["forma para torta"]
+    },
+    {
+      "nome": "Guacamole",
+      "imagem": "guacamole.jpg",
+      "ingredientes": [
+        "3 abacates maduros",
+        "1 cebola roxa picada",
+        "2 tomates picados",
+        "1/4 de xícara de coentro picado",
+        "Suco de 2 limões",
+        "Pimenta a gosto",
+        "Sal a gosto"
+      ],
+      "substituicoes": [],
+      "modo_preparo": "Amasse os abacates em uma tigela. Adicione a cebola, os tomates, o coentro, o suco de limão, a pimenta e o sal. Misture bem. Deixe descansar na geladeira por 30 minutos antes de servir.",
+      "tempo_preparo": "20 minutos",
+      "rendimento": "6 porções",
+      "tipo_receita": ["fitness", "vegano"],
+      "utensilios": ["tigela"]
+    },
+    {
+      "nome": "Cupcakes de Chocolate",
+      "imagem": "cupcakes_chocolate.jpg",
+      "ingredientes": [
+        "1 xícara de farinha de trigo",
+        "1/2 xícara de cacau em pó",
+        "1 xícara de açúcar",
+        "1/2 colher de chá de fermento em pó",
+        "1/2 colher de chá de bicarbonato de sódio",
+        "1/2 xícara de leite vegetal",
+        "1/2 xícara de óleo vegetal",
+        "2 ovos (ou substituto vegano)",
+        "1 colher de chá de extrato de baunilha",
+        "Gotas de chocolate vegano a gosto"
+      ],
+      "substituicoes": ["açúcar por adoçante", "leite vegetal por leite sem lactose", "ovos por substituto vegano", "chocolate vegano por chocolate comum"],
+      "modo_preparo": "Pré-aqueça o forno a 180°C e coloque forminhas de papel em uma forma para cupcakes. Em uma tigela, misture a farinha, o cacau, o açúcar, o fermento e o bicarbonato de sódio. Em outra tigela, misture o leite vegetal, o óleo, os ovos (ou substituto vegano) e a baunilha. Combine as misturas e adicione as gotas de chocolate. Encha as forminhas de cupcake e asse por 20-25 minutos. Deixe esfriar antes de decorar.",
+      "tempo_preparo": "45 minutos",
+      "rendimento": "12 cupcakes",
+      "tipo_receita": ["sem lactose", "vegano"],
+      "utensilios": ["forma para cupcakes"]
+    },
+    {
+      "nome": "Salada de Frutas",
+      "imagem": "salada_frutas.jpg",
+      "ingredientes": [
+        "1 maçã cortada em cubos",
+        "1 pera cortada em cubos",
+        "1 xícara de morangos fatiados",
+        "1 banana cortada em rodelas",
+        "1 xícara de uvas",
+        "Suco de 1 laranja",
+        "1 colher de sopa de mel (opcional)",
+        "Folhas de hortelã para decorar"
+      ],
+      "substituicoes": ["mel por xarope de bordo"],
+      "modo_preparo": "Em uma tigela, combine a maçã, a pera, os morangos, a banana e as uvas. Regue com o suco de laranja e, se desejar, adoce com mel (ou xarope de bordo). Decore com folhas de hortelã e sirva gelado.",
+      "tempo_preparo": "15 minutos",
+       "rendimento": "4 porções",
+      "tipo_receita": ["fitness", "para festas", "sem açúcar"],
+      "utensilios": ["tigela"]
+    },
+    {
+      "nome": "Sopa de Abóbora",
+      "imagem": "sopa_abobora.jpg",
+      "ingredientes": [
+        "1 abóbora pequena, descascada e cortada em cubos",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "4 xícaras de caldo de legumes",
+        "1 colher de chá de curry em pó",
+        "1/2 colher de chá de cominho",
+        "Sal e pimenta a gosto",
+        "1/2 xícara de creme de leite vegetal",
+        "Sementes de abóbora torradas para decorar"
+      ],
+      "substituicoes": ["creme de leite vegetal por creme de leite comum"],
+      "modo_preparo": "Em uma panela grande, refogue a cebola e o alho em um pouco de azeite até ficarem macios. Adicione a abóbora, caldo de legumes, curry, cominho, sal e pimenta. Cozinhe até que a abóbora esteja macia. Bata a sopa no liquidificador até ficar cremosa. Retorne a sopa à panela, adicione o creme de leite vegetal e aqueça. Sirva decorada com sementes de abóbora torradas.",
+      "tempo_preparo": "45 minutos",
+      "rendimento": "4 porções",
+      "tipo_receita": ["vegano"],
+      "utensilios": ["liquidificador", "panela"]
+    },
+    {
+      "nome": "Bolo de Chocolate Sem Glúten",
+      "imagem": "bolo_chocolate.jpg",
+      "ingredientes": [
+        "2 xícaras de farinha de amêndoas",
+        "1/2 xícara de cacau em pó",
+        "1/2 xícara de açúcar de coco",
+        "1 colher de chá de fermento em pó",
+        "1/2 colher de chia (opcional)",
+        "1/2 xícara de óleo de coco derretido",
+        "3 ovos (ou substituto vegano)",
+        "1 colher de chá de extrato de baunilha",
+        "1 xícara de leite de amêndoas"
+      ],
+      "substituicoes": ["açúcar de coco por adoçante", "óleo de coco por azeite de oliva", "ovos por substituto vegano"],
+      "modo_preparo": "Pré-aqueça o forno a 180°C e unte uma forma de bolo. Em uma tigela, misture a farinha de amêndoas, cacau, açúcar de coco, fermento e chia. Em outra tigela, misture o óleo de coco derretido, ovos (ou substituto), baunilha e leite de amêndoas. Combine as duas misturas e despeje na forma. Asse por cerca de 30-35 minutos ou até que um palito saia limpo ao ser inserido no centro.",
+      "tempo_preparo": "45 minutos",
+      "rendimento": "8 porções",
+      "tipo_receita": ["sem glúten", "sem lactose", "fitness"],
+      "utensilios": ["forma de bolo"]
+    },
+      {
+      "nome": "Tofu Grelhado com Legumes",
+      "imagem": "tofu_grelhado.jpg",
+      "ingredientes": [
+        "300g de tofu firme",
+        "1 abobrinha em rodelas",
+        "1 pimentão vermelho em tiras",
+        "1 cebola vermelha cortada em pedaços",
+        "2 colheres de sopa de molho de soja",
+        "2 colheres de sopa de óleo de gergelim",
+        "1 colher de chá de gengibre ralado",
+        "Sal e pimenta a gosto"
+      ],
+      "substituicoes": ["molho de soja por molho de soja sem glúten"],
+      "modo_preparo": "Corte o tofu em cubos e misture com o molho de soja, óleo de gergelim, gengibre ralado, sal e pimenta. Grelhe o tofu, abobrinha, pimentão e cebola em uma grelha quente até ficarem dourados e cozidos. Sirva quente.",
+      "tempo_preparo": "30 minutos",
+      "rendimento": "2 porções",
+      "tipo_receita": ["fitness", "vegano", "sem glúten"],
+      "utensilios": ["grelha"]
+    },
+    {
+      "nome": "Pão de Banana",
+      "imagem": "pao_banana.jpg",
+      "ingredientes": [
+        "3 bananas maduras",
+        "1/2 xícara de açúcar",
+        "1/4 de xícara de óleo vegetal",
+        "1 ovo (ou substituto vegano)",
+        "1 colher de chá de extrato de baunilha",
+        "1 1/2 xícaras de farinha de trigo",
+        "1 colher de chá de bicarbonato de sódio",
+        "1 colher de chá de canela em pó",
+        "1/2 colher de chá de sal",
+        "1/2 xícara de nozes picadas (opcional)"
+      ],
+      "substituicoes": ["açúcar por adoçante", "óleo vegetal por óleo de coco", "ovo por substituto vegano"],
+      "modo_preparo": "Pré-aqueça o forno a 180°C e unte uma forma de pão. Em uma tigela, amasse as bananas e misture com o açúcar, óleo, ovo (ou substituto) e baunilha. Em outra tigela, misture a farinha, bicarbonato de sódio, canela, sal e nozes (se desejar). Combine as duas misturas e despeje na forma. Asse por cerca de 60 minutos ou até que um palito saia limpo ao ser inserido no centro.",
+      "tempo_preparo": "75 minutos",
+      "rendimento": "1 pão",
+      "tipo_receita": ["sem açúcar", "sem glúten"],
+      "utensilios": ["forma de pão"]
+    }
+    {
+      "nome": "Frango ao Curry",
+      "imagem": "frango_curry.jpg",
+      "ingredientes": [
+        "4 peitos de frango",
+        "2 colheres de sopa de óleo de coco",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "2 colheres de sopa de curry em pó",
+        "1 lata de leite de coco",
+        "1/2 xícara de caldo de galinha",
+        "Sal e pimenta a gosto",
+        "Folhas de coentro para decorar"
+      ],
+      "substituicoes": ["óleo de coco por azeite de oliva", "leite de coco por leite de amêndoas", "caldo de galinha por caldo de legumes"],
+      "modo_preparo": "Tempere os peitos de frango com sal e pimenta. Aqueça o óleo de coco em uma frigideira e doure o frango de ambos os lados. Retire o frango da frigideira e reserve. Na mesma frigideira, adicione a cebola e o alho e refogue até ficarem macios. Adicione o curry em pó e mexa por alguns minutos. Despeje o leite de coco e o caldo de galinha. Coloque o frango de volta na frigideira e cozinhe até que esteja cozido. Decore com folhas de coentro e sirva com arroz ou legumes.",
+      "tempo_preparo": "45 minutos",
+      "rendimento": "4 porções",
+      "tipo_receita": ["para festas"],
+      "utensilios": ["frigideira"]
+    },
+    {
+      "nome": "Salada Caesar",
+      "imagem": "salada_caesar.jpg",
+      "ingredientes": [
+        "2 peitos de frango grelhados, cortados em tiras",
+        "1 alface romana, rasgada em pedaços",
+        "1/2 xícara de croutons",
+        "1/4 de xícara de queijo parmesão ralado",
+        "Molho Caesar a gosto"
+      ],
+      "substituicoes": ["queijo parmesão por queijo vegano", "croutons sem glúten"],
+      "modo_preparo": "Em uma tigela grande, combine o frango grelhado, alface romana, croutons e queijo parmesão. Regue com o molho Caesar a gosto e misture bem. Sirva imediatamente.",
+      "tempo_preparo": "20 minutos",
+      "rendimento": "4 porções",
+      "tipo_receita": ["sem glúten", "vegano"],
+      "utensilios": ["tigela"]
+    },
+    {
+      "nome": "Sushi Vegano",
+      "imagem": "sushi_vegano.jpg",
+      "ingredientes": [
+        "2 xícaras de arroz para sushi cozido e temperado",
+        "4 folhas de alga nori",
+        "1 abacate maduro, cortado em tiras",
+        "1/2 pepino, cortado em tiras",
+        "1 cenoura, cortada em tiras",
+        "Molho de soja ou molho agridoce para mergulhar",
+        "Wasabi e gengibre em conserva a gosto"
+      ],
+      "substituicoes": ["molho de soja por molho de soja sem glúten"],
+      "modo_preparo": "Coloque uma esteira de sushi em uma superfície plana e coloque uma folha de alga nori sobre ela, com o lado rugoso para cima. Molhe as mãos para manusear o arroz e espalhe uma fina camada de arroz sobre a alga nori, deixando uma borda vazia de cerca de 1 cm na parte superior. Coloque tiras de abacate, pepino e cenoura no centro do arroz. Enrole a esteira com firmeza para formar um rolo. Corte o rolo em pedaços de sushi. Sirva com molho de soja ou molho agridoce, wasabi e gengibre em conserva.",
+      "tempo_preparo": "30 minutos",
+      "rendimento": "4 porções",
+      "tipo_receita": ["vegano", "sem glúten"],
+      "utensilios": ["esteira de sushi"]
+    },
+    {
+      "nome": "Ratatouille",
+      "imagem": "ratatouille.jpg",
+      "ingredientes": [
+        "1 berinjela, cortada em rodelas",
+        "1 abobrinha, cortada em rodelas",
+        "1 pimentão vermelho, cortado em tiras",
+        "1 cebola, cortada em meia-lua",
+        "2 dentes de alho picados",
+        "2 tomates, cortados em rodelas",
+        "2 colheres de sopa de azeite de oliva",
+        "1 colher de chá de tomilho seco",
+        "Sal e pimenta a gosto",
+        "Folhas de manjericão para decorar"
+      ],
+      "substituicoes": ["azeite de oliva por azeite de oliva extra virgem"],
+      "modo_preparo": "Pré-aqueça o forno a 180°C. Em uma assadeira, coloque as rodelas de berinjela, abobrinha, pimentão, cebola e tomate intercaladas. Regue com azeite de oliva, polvilhe o alho picado, tomilho seco, sal e pimenta. Cubra a assadeira com papel alumínio e asse por 45 minutos. Retire o papel alumínio e asse por mais 15 minutos ou até que os legumes estejam macios e dourados. Decore com folhas de manjericão e sirva.",
+      "tempo_preparo": "70 minutos",
+      "rendimento": "4 porções",
+      "tipo_receita": ["vegano", "fitness"],
+      "utensilios": ["assadeira"]
+    }
   ]
 }
